@@ -47,3 +47,6 @@
 ## Nota
 
 Cabe destacar que hay ciertos métodos que son incorrectos, por lo que se aceptan pull request para su actualización. 
+
+## Licencia
+[LICENSE](LICENSE) file for details.
